@@ -34,9 +34,6 @@ python notepad.py
 
 ## Screenshots
 
-### Main Interface
-![Main Interface](images/main_interface.png)
-
 ### Font Selection
 ![Font Selection](images/font_selection.png)
 
@@ -75,10 +72,6 @@ The application is built using **QMainWindow** and integrates:
 ## Customization
 
 You can modify the icons by replacing images in the `images/` directory with your preferred ones.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
